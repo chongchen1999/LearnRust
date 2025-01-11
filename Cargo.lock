@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "_01_introduction"
 version = "0.1.0"
+
+[[package]]
+name = "_02_guess_game"
+version = "0.1.0"
