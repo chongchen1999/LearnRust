@@ -6,4 +6,8 @@ members = [
     "03-general_concepts/branch",
     "03-general_concepts/compound",
     "03-general_concepts/variables",
+    "04-ownership/borrow",
+    "04-ownership/owner",
+    "04-ownership/pointer",
+    "04-ownership/reference",
 ]
