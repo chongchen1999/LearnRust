@@ -1,5 +1,7 @@
 [workspace]
-resolver = "2"
+resolver = "3"
 members = [
-    "_01_introduction", "_02_guess_game",
+    "01-introduction/hello_world",
+    "02-guess_game/guess_game",
+    "03-general_concepts/variables",
 ]
