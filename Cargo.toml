@@ -9,5 +9,5 @@ members = [
     "04-ownership/borrow",
     "04-ownership/owner",
     "04-ownership/pointer",
-    "04-ownership/reference",
+    "04-ownership/reference", "04-ownership/slice",
 ]
