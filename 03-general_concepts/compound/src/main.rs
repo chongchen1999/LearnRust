@@ -16,8 +16,15 @@ fn main() {
     }
 
     another_function(5, 6);
+
+    let x = five(233);
+    println!("{}", x);
 }
 
 fn another_function(x: i32, y: i32) {
     println!("{} {}", x, y);
+}
+
+fn five(x: i32) -> i32 {
+    x + 5
 }
