@@ -10,4 +10,7 @@ fn main() {
     println!("The value of x is: {}", x);
 
     println!("The value of MAX_POINT is {}", MAX_POINTS);
+
+    let y: u32 = "42".parse().expect("Not a number!");
+    println!("The value of y is: {}", y);
 }
