@@ -20,5 +20,8 @@ members = [
     "06-enums_and_pattern/option",
     "07-module_system/demo_project",
     "07-module_system/multi_toolkit",
-    "07-module_system/rust_complex_project", "08-common_collections/vector",
+    "07-module_system/rust_complex_project",
+    "08-common_collections/hashmap",
+    "08-common_collections/string",
+    "08-common_collections/vector",
 ]
