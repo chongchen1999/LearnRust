@@ -11,5 +11,5 @@ members = [
     "04-ownership/pointer",
     "04-ownership/reference",
     "04-ownership/slice",
-    "05-struct/demo", "05-struct/method",
+    "05-struct/demo", "05-struct/method", "06-enums_and_pattern/enum_demo", "06-enums_and_pattern/option",
 ]
