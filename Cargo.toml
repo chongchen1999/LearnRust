@@ -13,7 +13,7 @@ members = [
     "04-ownership/slice",
     "05-struct/demo",
     "05-struct/method",
-    "06-enums_and_pattern/enum_demo",
+    "06-enums_and_pattern/enum_demo", "06-enums_and_pattern/if_let",
     "06-enums_and_pattern/match_demo",
     "06-enums_and_pattern/match_option",
     "06-enums_and_pattern/option",
