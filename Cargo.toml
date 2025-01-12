@@ -18,6 +18,6 @@ members = [
     "06-enums_and_pattern/match_demo",
     "06-enums_and_pattern/match_option",
     "06-enums_and_pattern/option",
-    "07-module_system/demo_project",
+    "07-module_system/demo_project", "07-module_system/multi_toolkit",
     "07-module_system/rust_complex_project",
 ]
