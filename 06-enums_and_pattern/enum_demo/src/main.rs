@@ -15,11 +15,12 @@ impl IpAddr {
 }
 
 // Define an enum with multiple variant types
+#[repr(u32)]
 enum Message {
-    Quit,
-    Move { x: i32, y: i32 },
-    Write(String),
-    ChangeColor(i32, i32, i32),
+    Quit = 10,
+    Move { x: i32, y: i32 } = 20,
+    Write(String) = 33,
+    ChangeColor(i32, i32, i32) = 233666,
 }
 
 // Implement a method for Message
