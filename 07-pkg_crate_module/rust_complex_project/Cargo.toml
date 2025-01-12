@@ -1,0 +1,11 @@
+[package]
+name = "rust_complex_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0", features = [
+    "derive",
+] } # External package for serialization
+serde_json = "1.0" # External package for JSON handling
+log = "0.4" # External package for logging
