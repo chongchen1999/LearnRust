@@ -23,5 +23,5 @@ members = [
     "07-module_system/rust_complex_project",
     "08-common_collections/hashmap",
     "08-common_collections/string",
-    "08-common_collections/vector", "09-error_handling/error_propagation", "09-error_handling/guessing_game", "09-error_handling/panic_macro", "09-error_handling/result",
+    "08-common_collections/vector", "09-error_handling/error_propagation", "09-error_handling/guessing_game", "09-error_handling/panic_macro", "09-error_handling/result", "10-generics/func", "10-generics/generic_func",
 ]
