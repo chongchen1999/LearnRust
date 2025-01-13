@@ -227,6 +227,10 @@ name = "owner"
 version = "0.1.0"
 
 [[package]]
+name = "panic_macro"
+version = "0.1.0"
+
+[[package]]
 name = "pointer"
 version = "0.1.0"
 
@@ -289,6 +293,10 @@ dependencies = [
 
 [[package]]
 name = "reference"
+version = "0.1.0"
+
+[[package]]
+name = "result"
 version = "0.1.0"
 
 [[package]]

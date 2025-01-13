@@ -23,5 +23,5 @@ members = [
     "07-module_system/rust_complex_project",
     "08-common_collections/hashmap",
     "08-common_collections/string",
-    "08-common_collections/vector",
+    "08-common_collections/vector", "09-error_handling/panic_macro", "09-error_handling/result",
 ]
