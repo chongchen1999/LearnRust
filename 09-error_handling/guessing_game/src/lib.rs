@@ -1,15 +1,20 @@
-pub mod guess;
-
-use rand::Rng;
-use std::cmp::Ordering;
-use crate::guess::Guess;
-
-/// Generates a secret number between 1 and 100.
-pub fn generate_secret_number() -> i32 {
-    rand::thread_rng().gen_range(1..=100)
+// src/lib.rs
+pub struct Guess {
+    value: i32,
 }
 
-/// Compares the user's guess to the secret number and returns a result.
-pub fn compare_guess(guess: &Guess, secret_number: i32) -> Ordering {
-    guess.value().cmp(&secret_number)
+impl Guess {
+    /// Creates a new `Guess` instance with validation.
+    /// Panics if the value is not between 1 and 100.
+    pub fn new(value: i32) -> Guess {
+        if value < 1 || value > 100 {
+            panic!("Guess value must be between 1 and 100, got {value}.");
+        }
+        Guess { value }
+    }
+
+    /// Returns the value of the `Guess`.
+    pub fn value(&self) -> i32 {
+        self.value
+    }
 }
