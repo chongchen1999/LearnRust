@@ -1,8 +1,12 @@
 use serde_json::Value;
+use serde::de::Error;
 
 pub fn parse_response(response: &str) -> Result<String, serde_json::Error> {
     let v: Value = serde_json::from_str(response)?;
-    Ok(v["body"].as_str().unwrap_or("No body").to_string())
+    match v["body"].as_str() {
+        Some(body) => Ok(body.to_string()),
+        None => Err(serde_json::Error::custom("Missing 'body' field")),
+    }
 }
 
 #[cfg(test)]
