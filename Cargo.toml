@@ -39,5 +39,5 @@ members = [
     "11-tests/http-client",
     "11-tests/test_org",
     "11-tests/use_result",
-    "12-prj_grep/minigrep",
+    "12-prj_grep/minigrep", "13-iterators_and_closures/closure_",
 ]
