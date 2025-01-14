@@ -4,7 +4,8 @@ members = [
     "01-introduction/hello_world",
     "02-guess_game/guess_game",
     "03-general_concepts/branch",
-    "03-general_concepts/compound", "03-general_concepts/string_",
+    "03-general_concepts/compound",
+    "03-general_concepts/string_",
     "03-general_concepts/variables",
     "04-ownership/borrow",
     "04-ownership/owner",
@@ -33,4 +34,5 @@ members = [
     "10-generics/generic_method",
     "10-generics/lifetime",
     "10-generics/trait_",
+    "11-tests/adder", "11-tests/fail_msg", "11-tests/test_org", "11-tests/use_result",
 ]
