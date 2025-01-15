@@ -49,4 +49,5 @@ pub fn run() {
         "The user with preference {:?} gets {:?}",
         user_pref2, giveaway2
     );
+    println!("{}","-".repeat(50));
 }
