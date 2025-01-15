@@ -500,6 +500,10 @@ name = "minigrep"
 version = "0.1.0"
 
 [[package]]
+name = "minigrep_v2"
+version = "0.1.0"
+
+[[package]]
 name = "multi_toolkit"
 version = "0.1.0"
 dependencies = [
