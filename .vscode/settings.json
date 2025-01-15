@@ -66,5 +66,9 @@
         "variant": "cpp",
         "format": "cpp",
         "__nullptr": "cpp"
+    },
+    "editor.formatOnSave": true,
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
     }
 }
