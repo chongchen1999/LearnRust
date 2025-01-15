@@ -41,6 +41,6 @@ members = [
     "11-tests/use_result",
     "12-prj_grep/minigrep",
     "13-iterators_and_closures/closure_",
-    "13-iterators_and_closures/iterator_",
+    "13-iterators_and_closures/iterator_", "13-iterators_and_closures/iterator_performance",
     "13-iterators_and_closures/minigrep_v2",
 ]
