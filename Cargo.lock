@@ -311,6 +311,10 @@ name = "deref"
 version = "0.1.0"
 
 [[package]]
+name = "drop"
+version = "0.1.0"
+
+[[package]]
 name = "either"
 version = "1.13.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -516,6 +520,10 @@ name = "minigrep_v2"
 version = "0.1.0"
 
 [[package]]
+name = "mock_object"
+version = "0.1.0"
+
+[[package]]
 name = "multi_toolkit"
 version = "0.1.0"
 dependencies = [
@@ -672,6 +680,10 @@ dependencies = [
 
 [[package]]
 name = "reference"
+version = "0.1.0"
+
+[[package]]
+name = "reference_count"
 version = "0.1.0"
 
 [[package]]

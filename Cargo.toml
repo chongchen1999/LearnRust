@@ -41,6 +41,10 @@ members = [
     "11-tests/use_result",
     "12-prj_grep/minigrep",
     "13-iterators_and_closures/closure_",
-    "13-iterators_and_closures/iterator_", "13-iterators_and_closures/iterator_performance",
-    "13-iterators_and_closures/minigrep_v2", "15-smart_pointers/cons_list", "15-smart_pointers/deref",
+    "13-iterators_and_closures/iterator_",
+    "13-iterators_and_closures/iterator_performance",
+    "13-iterators_and_closures/minigrep_v2",
+    "15-smart_pointers/cons_list",
+    "15-smart_pointers/deref",
+    "15-smart_pointers/drop", "15-smart_pointers/mock_object", "15-smart_pointers/reference_count",
 ]
