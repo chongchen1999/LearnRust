@@ -46,5 +46,5 @@ members = [
     "13-iterators_and_closures/minigrep_v2",
     "15-smart_pointers/cons_list",
     "15-smart_pointers/deref",
-    "15-smart_pointers/drop", "15-smart_pointers/mock_object", "15-smart_pointers/reference_count",
+    "15-smart_pointers/drop", "15-smart_pointers/mock_object", "15-smart_pointers/rc_and_refcell", "15-smart_pointers/reference_count",
 ]
