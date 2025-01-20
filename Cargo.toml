@@ -56,5 +56,9 @@ members = [
     "16-concurrency/shared_state",
     "16-concurrency/sync_and_send_trait",
     "16-concurrency/thread_basics",
-    "17-oop/oop_example", "17-oop/state_pattern", "17-oop/trait_objects",
+    "17-oop/oop_example",
+    "17-oop/state_pattern",
+    "17-oop/trait_objects",
+    "18-pattern_match/pattern_usage",
+
 ]
