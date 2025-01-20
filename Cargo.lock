@@ -570,6 +570,10 @@ name = "panic_macro"
 version = "0.1.0"
 
 [[package]]
+name = "passing_message"
+version = "0.1.0"
+
+[[package]]
 name = "plotters"
 version = "0.3.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
