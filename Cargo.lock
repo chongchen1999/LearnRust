@@ -827,6 +827,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "sync_and_send_trait"
+version = "0.1.0"
+
+[[package]]
 name = "test_org"
 version = "0.1.0"
 
