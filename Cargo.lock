@@ -806,6 +806,10 @@ name = "slice"
 version = "0.1.0"
 
 [[package]]
+name = "state_pattern"
+version = "0.1.0"
+
+[[package]]
 name = "string"
 version = "0.1.0"
 
