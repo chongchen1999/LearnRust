@@ -61,6 +61,6 @@ members = [
     "17-oop/trait_objects",
     "18-pattern_match/pattern_syntax",
     "18-pattern_match/pattern_usage",
-    "18-pattern_match/refutability", "19-advanced_features/rust_lib",
-    "19-advanced_features/unsafa_rust",
+    "18-pattern_match/refutability", "19-advanced_features/access_mutable_static_var", "19-advanced_features/rust_lib",
+    "19-advanced_features/unsafa_rust", "19-advanced_features/unsage_trait",
 ]
