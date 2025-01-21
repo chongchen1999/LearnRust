@@ -58,8 +58,9 @@ members = [
     "16-concurrency/thread_basics",
     "17-oop/oop_example",
     "17-oop/state_pattern",
-    "17-oop/trait_objects", "18-pattern_match/pattern_syntax",
+    "17-oop/trait_objects",
+    "18-pattern_match/pattern_syntax",
     "18-pattern_match/pattern_usage",
-    "18-pattern_match/refutability",
-
+    "18-pattern_match/refutability", "19-advanced_features/rust_lib",
+    "19-advanced_features/unsafa_rust",
 ]
